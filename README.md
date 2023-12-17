@@ -31,7 +31,7 @@ Also, due to recent updates:
 
 I have already scanned and posted several Win32 API `.data` files.
 
-You can get the `.data` files here: [ConstScannerDataFiles Repo](https://github.com/TheArkive/ConstScannerDataFiles)
+You can get the `.data` files here: [ConstScannerDataFiles Repo](https://github.com/poa00/ahk.v2ConstScannerDataFiles)
 
 I'll post more `.data` files as I scan more headers.
 
@@ -47,7 +47,7 @@ Load them up from the menubar:  `Data > Load Constants`
 + Create profiles of user-defined groups of headers.
 + All `#preprocessors` are now parsed to get a more accurate set of constants.
 + Flexible UI for searching and referencing API constants/structs/unions/enums/macros.
-+ All listed Win32 API groups have been dumped to the [Data File Repo](https://github.com/TheArkive/ConstScannerDataFiles).
++ All listed Win32 API groups have been dumped to the [Data File Repo](https://github.com/poa00/ahk.v2ConstScannerDataFiles).
 + Jump to where a value is defined in headers from the main list (right-click).\
 (Define text editor settings in the Settings menu.)
 + Setup this script with a compiler of your choice for checking constants (recommended MSVC BuildTools or GCC variant, like MinGW32/64 or TDGCC).\
